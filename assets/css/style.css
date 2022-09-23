@@ -9,29 +9,23 @@
 
 body{
     font-family: 'Raleway', sans-serif;
-
 }
 
 .menu-header{
     position: absolute;
     top: 0;
     color: #fff;
-   
-
 }
 
 body {
     color: #ffffff;
     background-color: #000000;
-   
 }
 
 .carousel-inner{
 height: 40rem;
 
 }
-
-
 
 .logo_final {
     text-align: center;
@@ -54,8 +48,6 @@ height: 40rem;
        
 }
 
-
-
 .letra-1{
     font-size: 18px;
 }
@@ -74,14 +66,6 @@ height: 40rem;
     font-size: 25px;
 }
 
-
-.central{
-
-    Text-align: center;
-
-}
-
-
 .iconos {
     background-color:#17A2B8 ;
     color: #ffffff;
@@ -90,3 +74,9 @@ height: 40rem;
 
 }
 
+.central{
+    Text-align: center;
+}
+.p{
+    text-align: center;
+}

@@ -1,14 +1,23 @@
 
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+
+}
+
+
 body{
     font-family: 'Raleway', sans-serif;
 
 }
 
 .menu-header{
-    background-color: transparent;
     position: absolute;
     top: 0;
     color: #fff;
+   
+
 }
 
 body {
@@ -53,24 +62,6 @@ height: 40rem;
 
 
 
-
-
-
-
-
-
-
-.text-rosa{
-   text-align: center;
-   color:  #707070;
-}
-
-.rosa{
-    background-color:#fff ;
-    font-weight: lighter;
-    font-family: 'Roboto', sans-serif;
-
-}
 .letra-1{
     font-size: 18px;
 }
@@ -91,92 +82,18 @@ height: 40rem;
 
 
 
-.celeste{
-    background-color:#35b3e1;
-}
-
-
-.text-blanco2{
-    background-color:#ffffff ;
-        
-}
-
-
 .central{
 
     Text-align: center;
 
 }
 
-.cen-caja{
-    display: flex;
-
-}
-
-
-
-.contenedor-1 {
-    display: flex;
-    width: 60%;
-    margin: 0 auto;
-    padding: 40px
-}
-
-
-.descriptionIguana {
-    width: 50%;
-    color: #000;
-    font-weight: lighter;
-    font-size: 25px;
-    margin: 20px;
-
-}
-
-
-
-
-
-
 
 .iconos {
     background-color:#17A2B8 ;
     color: #ffffff;
     font-weight: lighter;
-
     Text-align: center;
 
 }
-
-.tarjetas{
-    display: grid;
-    grid-template-columns: 37% 63%;
-    font-family: 'Roboto',
-}
-
-.text-verde span{
-  color: #28a745 ;
-   font-size: 21px;
-   font-weight:normal;
-
-}
-
-.text-blanco{
-    color: #fff ;
-     font-size: 21px;
-     font-weight:lighter;
-     
-  }
-
-  .info{
-    font-weight:lighter;
-    
-  }
-
-  .cab{
-    font-family: 'Cabin';
-    font: normal normal medium;
-    font-style: light;
-}
-
-  
 
